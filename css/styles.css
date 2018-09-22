@@ -68,6 +68,22 @@ body {
   font-style: normal;
 }
 
+.tags {
+  margin: 1px;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+  text-align: right;
+}
+/*
+.tags:before {
+  content: "</li><li>"
+}
+*/
+
 #loadQuote {
   position: fixed;
   width: 12em;
